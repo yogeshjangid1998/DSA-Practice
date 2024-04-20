@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class GFG {
+public class CountPairsWithGivenSum {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
